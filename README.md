@@ -16,5 +16,5 @@ My research interests focus on multiobjective optimization, semi-infinite progra
 PROFILE:
 * Highly self-motivated researcher with demonstrated research expertise in modeling industrial processes. 
 * Strong optimization foundations with a good sense of teamwork.
-* Programming Skills: Matlab, C.
+* Programming Skills: Julia, Matlab, Pythion, C.
 
