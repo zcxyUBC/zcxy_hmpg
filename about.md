@@ -2,15 +2,16 @@
  * @Author: zcxyUBC zcxy0218@gmail.com
  * @Date: 2024-03-27 10:37:31
  * @LastEditors: zcxyUBC zcxy0218@gmail.com
- * @LastEditTime: 2024-03-27 10:39:07
+ * @LastEditTime: 2024-03-27 11:16:43
  * @FilePath: /zcxyUBC/about.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
 ---
 layout: page
 title: About Me
-permalink: /about/
+<!--permalink: /about/ -->
 ---
+
 I have just graduated from control theory and control engineering, at Northeastern University (NEU), Shenyang, China, and obtained the Master's degree on July 5, 2023. I started my academic career in control theory, with a Bachelor's degree in Automation from Northeastern University in 2016.
 
 In my undergraduate, I was keen on mathematical modeling and have attended national contests many times. So, I have a solid foundation in numerical computation, which is conducive to my future research on optimization and optimal control in the Laboratory of Synthetical Automation for Process Industries, NEU.
