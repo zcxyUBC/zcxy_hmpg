@@ -4,8 +4,8 @@ name: Zou Chenxuanyin
 subtitle:  Engineer
 email: zcxy@mail.ubc.ca
 description: >
-   Chemical and Biological Engineer
-baseurl: ""
+   Engineer
+baseurl: "https://zcxyubc.github.io/zcxyUBC/"
 url: "https://zcxyubc.github.io/zcxyUBC/"
 github_username:  zcxyUBC
 disqus_baseurl: "https://zcxyubc.github.io/zcxyUBC/"
