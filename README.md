@@ -1,5 +1,5 @@
 # Chenxuanyin Zou
-This is Chenxuanyin Zou's personal [homepage](https://zcxyubc.github.io/).
+This is Chenxuanyin Zou's personal [homepage](https://zcxyubc.github.io/zcxyUBC/).
 
 ## Introduction
 Welcome! My name is Zou Chenxuanyin, and I am a PhD student in the Chemical and Biological Engineering Department at University of British Columnbia, Vancouver, BC, CANADA. 
