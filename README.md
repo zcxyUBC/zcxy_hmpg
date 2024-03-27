@@ -17,3 +17,6 @@ PROFILE:
 * Strong optimization foundations with a good sense of teamwork.
 * Programming Skills: Matlab, C.
 
+
+
+theme: jekyll-theme-minimal
