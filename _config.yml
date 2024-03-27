@@ -2,14 +2,14 @@
 title: Zou Chenxuanyin
 name: Zou Chenxuanyin
 subtitle:  Engineer
-email: zcxy1212@163.com
+email: zcxy@mail.ubc.ca
 description: >
    Engineer
 baseurl: ""
-url: "https://zcxy-academic.github.io/"
-github_username:  zcxy-academic
-disqus_baseurl: "https://zcxy-academic.github.io/"
-disqus_shortname: https-zcxy-academic-github-io
+url: "https://zcxyubc.github.io/zcxyUBC"
+github_username:  zcxyUBC
+disqus_baseurl: "https://zcxyubc.github.io/"
+disqus_shortname: https-zcxyubc-github-io
 permalink: :title
 google-site-verification: "EBNpnv4GiHJTmePgRajamxrYtJnc6WlqDyWUITDaSMo"
 
@@ -39,8 +39,8 @@ gems:
 social:
   - name: GitHub
     icon: github
-    username: zcxy-academic
-    url: https://github.com/zcxy-academic
+    username: zcxyUBC
+    url: https://github.com/zcxyUBC
     desc: Fork me on GitHub
     share: false
 
