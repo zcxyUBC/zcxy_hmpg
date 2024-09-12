@@ -1,21 +1,22 @@
 # Chenxuanyin Zou
-This is Chenxuanyin Zou's personal [homepage](https://zcxyUBC.github.io/).
+This is Chenxuanyin Zou's personal [homepage](https://zcxyubc.github.io/zcxyUBC/).
 
 ## Introduction
-Welcome! My name is Zou Chenxuanyin, and I am a Master's student (ranking first) in the Laboratory of Synthetical Automation for Process Industries at Northeastern University in Liaoning Province with a Master's degree on July 5, 2023. I am going to be a Ph.D. student at the University of British Columbia on January 1, 2024.
+Welcome! My name is Zou Chenxuanyin, and I am a PhD student in the Chemical and Biological Engineering Department at University of British Columnbia, Vancouver, BC, Canada. 
 
-My research interests focus on multiobjective optimization, semi-infinite programming, and optimal control. I am devoted to handling multiobjective optimization problems with inequality path constraints in non-linear dynamic systems. Furthermore, I have a broad knowledge of multiobjective methods. I am currently trying to incorporate parallel and distributed computation into my research to intensify the power of algorithms to solve large-scale and complicated problems and improve efficiency. Feel free to look at https://zcxy-academic.github.io to learn more!
+My research interests focus on multiobjective optimization, semi-infinite programming, and optimal control. I am devoted to handling multiobjective optimization problems with inequality path constraints in non-linear dynamic systems. Furthermore, I have a broad knowledge of multiobjective methods. I am currently trying to incorporate parallel and distributed computation into my research to intensify the power of algorithms to solve large-scale and complicated problems and improve efficiency. Feel free to look at [My Research](https://zcxyubc.github.io/zcxyUBC/research) to learn more!
 
 
 ## Education
-* MPhil in Control Theory and Control  Engineering, Northeastern University, 2020-2023.
-* B.S. in Automation, Northeastern University, 2016-2020
+* PhD in Chemical and Biological Engineering, University of Britsh Columbia, since 2024;
+* MEng in Control Theory and Control Engineering, Northeastern University, 2020-2023;
+* B.S. in Automation, Northeastern University, 2016-2020.
 
 
 PROFILE:
 * Highly self-motivated researcher with demonstrated research expertise in modeling industrial processes. 
 * Strong optimization foundations with a good sense of teamwork.
-* Programming Skills: Matlab, C.
+* Programming Skills: Julia, Matlab, Pythion, C.
 
 
 
