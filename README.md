@@ -18,3 +18,6 @@ PROFILE:
 * Strong optimization foundations with a good sense of teamwork.
 * Programming Skills: Julia, Matlab, Pythion, C.
 
+
+
+theme: jekyll-theme-minimal
